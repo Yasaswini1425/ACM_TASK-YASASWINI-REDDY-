@@ -8,4 +8,4 @@ Hacker rank:believebuzz
 ![img](https://github.com/Yasaswini1425/ACM_TASK-YASASWINI-REDDY-/blob/main/pictures/yasaswini%20reddy%20-%20Intro%20to%20Machine%20Learning.png)
 
 ``` Task 1 ```
-![img](https://github.com/Yasaswini1425/ACM_TASK-YASASWINI-REDDY-/blob/main/pictures/TASK_2_IMPLEMENTING_CLASSIFIERS.pdf)
+(https://github.com/Yasaswini1425/ACM_TASK-YASASWINI-REDDY-/blob/main/pictures/TASK_2_IMPLEMENTING_CLASSIFIERS.pdf)
